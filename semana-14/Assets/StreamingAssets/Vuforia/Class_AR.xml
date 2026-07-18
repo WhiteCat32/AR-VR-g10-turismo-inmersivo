@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="DESPEDIDA" size="1.000000 1.000000" />
+    <ImageTarget name="art4" size="10.000000 10.000000" />
+    <ImageTarget name="art3" size="10.000000 10.000000" />
+    <ImageTarget name="art2" size="10.000000 10.000000" />
+    <ImageTarget name="art1" size="10.000000 10.000000" />
+    <ImageTarget name="whatsappimage2026-05-30at1" size="2.000000 1.985685" />
+    <ImageTarget name="chatgptimage10may202609_10_10p" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
